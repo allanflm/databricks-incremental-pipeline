@@ -46,7 +46,7 @@ Databricks SQL dashboard with:
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+<img width="1410" height="744" alt="dashbord-warmart project" src="https://github.com/user-attachments/assets/3eecac9b-03cc-434d-89d0-bd69f7a4c3d0" />
 
 ## 💡 Key Concepts
 
